@@ -6,4 +6,4 @@ Thi Kết Thúc Môn: Thiết Kế Và Quản Trị Web Site Thời gian:23/12/2
 <br>
 Địa chỉ web: http://duongtrongtuan.epizy.com/
 <br>
-Địa chỉ WordPress: https://duongtrongtuann.wordpress.com/
+Địa chỉ WordPress: https://khang163827195.wordpress.com/
